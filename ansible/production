@@ -1,0 +1,2 @@
+; ansible_tutorial/ansible/production
+rails ansible_host=ec2-52-56-37-197.eu-west-2.compute.amazonaws.com ansible_user=ubuntu
